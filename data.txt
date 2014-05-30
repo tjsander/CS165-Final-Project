@@ -1,0 +1,14 @@
+76616c6964617465
+# This is a sample character sheet I don’t have time
+# to fully implement.
+# Ideally, my IO would ignore lines that begin with #
+# IO would then skip to the name in quotes, job also
+# in quotes, and the next four+ int values and create
+# a character with those stats.
+
+Name:	“Travis”
+Job:	“Fighter”
+Level:	10
+STR:	50
+DEF:	30
+HP:	100
